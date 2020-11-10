@@ -1,0 +1,11 @@
+{
+  "basePackage":"network.golem.yajapi.payment",
+  "configPackage":"network.golem.yajapi.payment.config",
+  "modelPackage": "network.golem.yajapi.payment.models",
+  "apiPackage": "network.golem.yajapi.payment.apis",
+  "serializableModel": true,
+  "library": "jersey2",
+  "additionalProperties": {
+    "dateLibrary": "java8"
+  }
+}

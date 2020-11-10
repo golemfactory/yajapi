@@ -1,0 +1,11 @@
+{
+  "basePackage":"network.golem.yajapi.activity",
+  "configPackage":"network.golem.yajapi.activity.config",
+  "modelPackage": "network.golem.yajapi.activity.models",
+  "apiPackage": "network.golem.yajapi.activity.apis",
+  "serializableModel": true,
+  "library": "jersey2",
+  "additionalProperties": {
+    "dateLibrary": "java8"
+  }
+}
